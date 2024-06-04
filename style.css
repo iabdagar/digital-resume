@@ -8,3 +8,11 @@
    background-color: red;
    color: white;
 }
+
+#left-side{
+    width: 25%;
+}
+
+#right-side{
+    width: 70%;
+}
