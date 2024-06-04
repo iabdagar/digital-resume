@@ -4,10 +4,6 @@
     box-sizing: border-box;
 }
 
-body {
-    width: 100%;
-}
-
 #container {
    background-color: red;
    color: white;
